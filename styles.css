@@ -1,0 +1,51 @@
+CSS CODE:
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #064a2e;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+header h1 {
+    margin: 0;
+}`
+
+section {
+    padding: 20px;
+}
+
+.job {
+    margin: 20px 0;
+}
+
+h2 {
+    background-color: #09af59;
+    color: #fff;
+    padding: 10px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+a {
+    color: #a93333;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
